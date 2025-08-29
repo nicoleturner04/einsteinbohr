@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to The Econophysicist!"
-date:   2025-08-28 23:25:49 +0100
+title:  "Welcome to my nerd blog"
+date:   2025-08-28
 categories: blog
 ---
 Welcome to *The Econophysicist*!
