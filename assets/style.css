@@ -1,0 +1,13 @@
+body {
+  background-color: white;
+  color: #4B2E2E; /* burgundy text */
+  font-family: Arial, sans-serif;
+}
+
+header h1 {
+  color: #9CAF88; /* sage green */
+}
+
+a {
+  color: #4B2E2E; /* burgundy links */
+}
