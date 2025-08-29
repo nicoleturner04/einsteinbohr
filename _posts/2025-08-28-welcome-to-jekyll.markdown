@@ -6,9 +6,16 @@ categories: blog
 ---
 Welcome to *The Econophysicist*!
 
-Where financial markets meet physics. From general relativity to global crashes, I'll explore economics through the lens of physics and mathematics.
+This blog will explore correlations between physical laws and the financial markets. 
 
-This blog will feature analysis and insights.
+I am an economics student interested in science.
+
+Physics is apparent everywhere, chaotic markets follow patterns similar to those of the fundamental rules that make up from subatomic particles to the universe.
+
+I promise I am onto something. Do not worry, I will not mention Schrodinger
+...
+
+
 
 <div class="post-content">
 <div>
