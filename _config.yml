@@ -22,8 +22,8 @@ title: The Econophysicist
 email: nicoleturner0404@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Where financial markets meet physics. From general relativity to global crashes. Exploring economics through the lens of physical laws and mathematics.
-baseurl: "" # the subpath of your site, e.g. /blog
-url:  "https://theeconophysicist.com"
+baseurl: "/theeconophysicist"
+url:  "https://nicoleturner04.github.io"
 twitter_username: jekyllrb
 github_username:  nicoleturner04
 
