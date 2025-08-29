@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How Lorenz predicted the GFC"
 date: 2025-08-29
 author: "Nicole Turner"
