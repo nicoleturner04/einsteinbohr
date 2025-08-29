@@ -1,5 +1,5 @@
 
-schrodinger and black holes i mean black scholes equation i used for picture in blog in latex
+schrodinger and black holes i mean black scholes equation i used for picture in latex
 ---
 
 ## cat equation
